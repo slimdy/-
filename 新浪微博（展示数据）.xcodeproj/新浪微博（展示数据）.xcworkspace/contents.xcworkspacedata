@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:">
+   </FileRef>
+   <Group
+      location = "group:&#x65b0;&#x6d6a;&#x5fae;&#x535a;&#xff08;&#x5c55;&#x793a;&#x6570;&#x636e;&#xff09;"
+      name = "&#x65b0;&#x6d6a;&#x5fae;&#x535a;&#xff08;&#x5c55;&#x793a;&#x6570;&#x636e;&#xff09;">
+      <Group
+         location = "group:Assets.xcassets"
+         name = "Assets.xcassets">
+         <Group
+            location = "group:AppIcon.appiconset"
+            name = "AppIcon.appiconset">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <FileRef
+               location = "group:icon.png">
+            </FileRef>
+            <FileRef
+               location = "group:icon@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:icon@3x.png">
+            </FileRef>
+            <FileRef
+               location = "group:icon_base@2x.png">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <Group
+            location = "group:Discover"
+            name = "Discover">
+            <Group
+               location = "group:app.imageset"
+               name = "app.imageset">
+               <FileRef
+                  location = "group:app@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:cast.imageset"
+               name = "cast.imageset">
+               <FileRef
+                  location = "group:cast@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:expand.imageset"
+               name = "expand.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:expand@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:find_people.imageset"
+               name = "find_people.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:find_people@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:game_center.imageset"
+               name = "game_center.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:game_center@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:hot_status.imageset"
+               name = "hot_status.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:hot_status@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:more.imageset"
+               name = "more.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:more@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:movie.imageset"
+               name = "movie.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:movie@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:music.imageset"
+               name = "music.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:music@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:near.imageset"
+               name = "near.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:near@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:searchbar_textfield_background.imageset"
+               name = "searchbar_textfield_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:searchbar_textfield_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:searchbar_textfield_search_icon.imageset"
+               name = "searchbar_textfield_search_icon.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:searchbar_textfield_search_icon@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:square_ad.imageset"
+               name = "square_ad.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:square_ad@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:video.imageset"
+               name = "video.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:video@2x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Home"
+            name = "Home">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:popover_background.imageset"
+               name = "popover_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:popover_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:popover_background_left.imageset"
+               name = "popover_background_left.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:popover_background_left@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:popover_background_right.imageset"
+               name = "popover_background_right.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:popover_background_right@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_card_bottom_background.imageset"
+               name = "timeline_card_bottom_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_bottom_background@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_bottom_background@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_card_bottom_background_highlighted.imageset"
+               name = "timeline_card_bottom_background_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_bottom_background_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_bottom_background_highlighted@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_card_bottom_line.imageset"
+               name = "timeline_card_bottom_line.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_bottom_line@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_card_bottom_line_highlighted.imageset"
+               name = "timeline_card_bottom_line_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_bottom_line_highlighted@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_card_top_background.imageset"
+               name = "timeline_card_top_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_top_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_card_top_background_highlighted.imageset"
+               name = "timeline_card_top_background_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_card_top_background_highlighted@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_icon_comment.imageset"
+               name = "timeline_icon_comment.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_comment@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_comment@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_icon_more.imageset"
+               name = "timeline_icon_more.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_more@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_icon_more_highlighted.imageset"
+               name = "timeline_icon_more_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_more_highlighted@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_icon_retweet.imageset"
+               name = "timeline_icon_retweet.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_retweet@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_retweet@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_icon_unlike.imageset"
+               name = "timeline_icon_unlike.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_unlike@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_icon_unlike@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_image_gif.imageset"
+               name = "timeline_image_gif.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_image_gif@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_image_placeholder.imageset"
+               name = "timeline_image_placeholder.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_image_placeholder.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_new_status_background.imageset"
+               name = "timeline_new_status_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_new_status_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_retweet_background.imageset"
+               name = "timeline_retweet_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_retweet_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:timeline_retweet_background_highlighted.imageset"
+               name = "timeline_retweet_background_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:timeline_retweet_background_highlighted@2x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:LaunchImage"
+            name = "LaunchImage">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:default-1.imageset"
+               name = "default-1.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:default.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Default.imageset"
+               name = "Default.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:Default@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Default@3x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:NavigationBar"
+            name = "NavigationBar">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:navigationbar_arrow_down.imageset"
+               name = "navigationbar_arrow_down.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_arrow_down@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_arrow_up.imageset"
+               name = "navigationbar_arrow_up.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_arrow_up@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_back.imageset"
+               name = "navigationbar_back.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_back@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_back@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_back_highlighted.imageset"
+               name = "navigationbar_back_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_back_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_back_highlighted@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_background.imageset"
+               name = "navigationbar_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_button_background.imageset"
+               name = "navigationbar_button_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_button_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_filter_background_highlighted.imageset"
+               name = "navigationbar_filter_background_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_filter_background_highlighted@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_friendsearch.imageset"
+               name = "navigationbar_friendsearch.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_friendsearch@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_friendsearch@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_friendsearch_highlighted.imageset"
+               name = "navigationbar_friendsearch_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_friendsearch_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_friendsearch_highlighted@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_more.imageset"
+               name = "navigationbar_more.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_more@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_more@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_more_highlighted.imageset"
+               name = "navigationbar_more_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_more_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_more_highlighted@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_pop.imageset"
+               name = "navigationbar_pop.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_pop@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_pop@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:navigationbar_pop_highlighted.imageset"
+               name = "navigationbar_pop_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_pop_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:navigationbar_pop_highlighted@3x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Newfeature"
+            name = "Newfeature">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:new_feature_1.imageset"
+               name = "new_feature_1.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_1-568h@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_1@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_2.imageset"
+               name = "new_feature_2.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_2-568h@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_2@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_3.imageset"
+               name = "new_feature_3.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_3-568h@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_3@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_4.imageset"
+               name = "new_feature_4.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_4-568h@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_4@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_finish_button.imageset"
+               name = "new_feature_finish_button.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_finish_button@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_finish_button_highlighted.imageset"
+               name = "new_feature_finish_button_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_finish_button_highlighted@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_share_false.imageset"
+               name = "new_feature_share_false.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_share_false@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_feature_share_true.imageset"
+               name = "new_feature_share_true.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_feature_share_true@2x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:TabBar"
+            name = "TabBar">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:main_badge.imageset"
+               name = "main_badge.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:main_badge@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:main_badge@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:new_dot.imageset"
+               name = "new_dot.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:new_dot@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:new_dot@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_background.imageset"
+               name = "tabbar_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_background@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_background_os7.imageset"
+               name = "tabbar_background_os7.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_background_os7@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_compose_background_icon_add.imageset"
+               name = "tabbar_compose_background_icon_add.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_background_icon_add@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_compose_button.imageset"
+               name = "tabbar_compose_button.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_button@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_button@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_compose_button_highlighted.imageset"
+               name = "tabbar_compose_button_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_button_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_button_highlighted@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_compose_icon_add.imageset"
+               name = "tabbar_compose_icon_add.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_icon_add@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_icon_add@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_compose_icon_add_highlighted.imageset"
+               name = "tabbar_compose_icon_add_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_icon_add_highlighted@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_compose_icon_add_highlighted@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_discover.imageset"
+               name = "tabbar_discover.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_discover@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_discover@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_discover_selected.imageset"
+               name = "tabbar_discover_selected.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_discover_selected@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_discover_selected@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_home.imageset"
+               name = "tabbar_home.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_home@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_home@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_home_selected.imageset"
+               name = "tabbar_home_selected.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_home_selected@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_home_selected@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_message_center.imageset"
+               name = "tabbar_message_center.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_message_center@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_message_center@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_message_center_selected.imageset"
+               name = "tabbar_message_center_selected.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_message_center_selected@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_message_center_selected@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_profile.imageset"
+               name = "tabbar_profile.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_profile@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_profile@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tabbar_profile_selected.imageset"
+               name = "tabbar_profile_selected.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_profile_selected@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tabbar_profile_selected@3x.png">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Base.lproj"
+         name = "Base.lproj">
+         <FileRef
+            location = "group:LaunchScreen.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:Main.storyboard">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Classes"
+         name = "Classes">
+         <Group
+            location = "group:Discovery(&#x53d1;&#x73b0;)"
+            name = "Discovery(&#x53d1;&#x73b0;)">
+            <Group
+               location = "group:Controllers"
+               name = "Controllers">
+               <FileRef
+                  location = "group:LFDiscoveryTableViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFDiscoveryTableViewController.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Models"
+               name = "Models">
+            </Group>
+            <Group
+               location = "group:Views"
+               name = "Views">
+               <FileRef
+                  location = "group:LFSearchBar.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFSearchBar.m">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Home(&#x9996;&#x9875;)"
+            name = "Home(&#x9996;&#x9875;)">
+            <Group
+               location = "group:Controllers"
+               name = "Controllers">
+               <FileRef
+                  location = "group:LFHomeTableViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFHomeTableViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LFNextViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFNextViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LFNextViewController.xib">
+               </FileRef>
+               <FileRef
+                  location = "group:LFPopMenuTableViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFPopMenuTableViewController.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Models"
+               name = "Models">
+            </Group>
+            <Group
+               location = "group:Views"
+               name = "Views">
+               <FileRef
+                  location = "group:LFCoverView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFCoverView.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LFHomeTitleView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFHomeTitleView.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LFPopMenuView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFPopMenuView.m">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Main"
+            name = "Main">
+            <Group
+               location = "group:Controllers"
+               name = "Controllers">
+               <FileRef
+                  location = "group:LFNavigationController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFNavigationController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LFTabBarController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFTabBarController.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Models"
+               name = "Models">
+            </Group>
+            <Group
+               location = "group:Views"
+               name = "Views">
+               <FileRef
+                  location = "group:LFTabBar.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFTabBar.m">
+               </FileRef>
+               <FileRef
+                  location = "group:LFTabBarButton.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFTabBarButton.m">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Message(&#x6d88;&#x606f;)"
+            name = "Message(&#x6d88;&#x606f;)">
+            <Group
+               location = "group:Controllers"
+               name = "Controllers">
+               <FileRef
+                  location = "group:LFMessageTableViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFMessageTableViewController.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Models"
+               name = "Models">
+            </Group>
+            <Group
+               location = "group:Views"
+               name = "Views">
+            </Group>
+         </Group>
+         <Group
+            location = "group:NewFeature(&#x65b0;&#x7279;&#x6027;)"
+            name = "NewFeature(&#x65b0;&#x7279;&#x6027;)">
+            <Group
+               location = "group:Controllers"
+               name = "Controllers">
+               <FileRef
+                  location = "group:LFNewFeatureCollectionViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFNewFeatureCollectionViewController.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Models"
+               name = "Models">
+            </Group>
+            <Group
+               location = "group:Views"
+               name = "Views">
+               <FileRef
+                  location = "group:LFNewFeatureCollectionViewCell.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFNewFeatureCollectionViewCell.m">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Others"
+            name = "Others">
+            <FileRef
+               location = "group:AppDelegate.h">
+            </FileRef>
+            <FileRef
+               location = "group:AppDelegate.m">
+            </FileRef>
+            <Group
+               location = "group:Category"
+               name = "Category">
+               <FileRef
+                  location = "group:UIBarButtonItem+LF.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIBarButtonItem+LF.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UIImage+LF.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIImage+LF.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UIView+LF.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIView+LF.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:LFWeibo-Prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:main.m">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:profile(&#x6211;)"
+            name = "profile(&#x6211;)">
+            <Group
+               location = "group:Controllers"
+               name = "Controllers">
+               <FileRef
+                  location = "group:LFProfileTableViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LFProfileTableViewController.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Models"
+               name = "Models">
+            </Group>
+            <Group
+               location = "group:Views"
+               name = "Views">
+            </Group>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+   </Group>
+</Workspace>

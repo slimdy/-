@@ -1,0 +1,51 @@
+//
+//  LFWeibo-Prefix.pch
+//  新浪微博（搭建框架）
+//
+//  Created by slimdy on 16/8/8.
+//  Copyright © 2016年 slimdy. All rights reserved.
+
+
+
+#ifdef __OBJC__
+
+#import "UIView+LF.h"
+#import "UIImage+LF.h"
+#import "UIBarButtonItem+LF.h"
+
+#define LFKeyWindow [UIApplication sharedApplication].keyWindow
+#define MainScreen [UIScreen mainScreen]
+#define LFDBCachePath [NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES)[0] stringByAppendingPathComponent:@"weibos.sqlite"]
+
+#define LFWBGetNewWeiBoUrl @"https://api.weibo.com/2/statuses/friends_timeline.json"
+#define LFOAuthBaseUrl @"https://api.weibo.com/oauth2/authorize"
+#define LFAppKey @"602427426"
+#define LFRedirectUrl @"https://www.baidu.com"
+#define LFAccessTokenUrl @"https://api.weibo.com/oauth2/access_token"
+#define LFAppSecret @"10d971d3d836263778aabb6ead09298d"
+#define LFUreadUrl @"https://rm.api.weibo.com/2/remind/unread_count.json"
+#define LFUserInfoUrl @"https://api.weibo.com/2/users/show.json"
+#define LFComposeTextUrl @"https://api.weibo.com/2/statuses/update.json"
+#define LFComposeImageUrl @"https://upload.api.weibo.com/2/statuses/upload.json"
+
+
+#define LFWeiboCellMargin 10
+#define LFNameFont [UIFont systemFontOfSize:18]
+#define LFTimeFont [UIFont systemFontOfSize:14]
+#define LFSourceFont LFTimeFont
+#define LFTextFont [UIFont systemFontOfSize:18]
+#define LFIconWH 50;
+#define LFScreenW MainScreen.bounds.size.width
+// ...表示宏定义的可变参数
+// __VA_ARGS__:表示函数里面的可变参数
+#ifdef DEBUG // 调试
+
+#define LFLog(...) NSLog(__VA_ARGS__)
+
+#else // 发布
+
+#define LFLog(...) 失效
+
+#endif
+
+#endif
